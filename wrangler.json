@@ -32,7 +32,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "OAUTH_KV",
-			"id": "YOUR_KV_NAMESPACE_ID_HERE", // Replace with your actual KV namespace ID
+			"id": "34731d0f81144d1b9e41330163a7545a", // Replace with your actual KV namespace ID
 		},
 	],
 	"observability": {
