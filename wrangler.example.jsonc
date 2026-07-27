@@ -11,7 +11,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "schwab-mcp-personal", // Change this to a unique name for your deployment
+	"name": "schwab-mcp-jlove", // Change this to a unique name for your deployment
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-17",
 	"compatibility_flags": ["nodejs_compat"],
